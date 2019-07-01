@@ -1,5 +1,5 @@
 from flask import Flask, request
-from flask_restful import Resource, Api
+from flask_restful import Resource, Api, reqparse
 from flask_jwt import JWT, jwt_required
 
 from security import authenticate, identity
@@ -28,14 +28,11 @@ class Item(Resource):
 		return item, 201
 
 
-	@jwt_required()
 	def delete(self, name):
 		global items
 		items = list(filter(lambda x: x['name'] != name, items))
 		return {'message': 'Item deleted'}
 
-
-	@jwt_required()
 	def put(self, name):
 		data = Item.parser.parse_args()
 		# Once again, print something not in the args to verify everything works
@@ -46,6 +43,7 @@ class Item(Resource):
 		else:
 			item.update(data)
 		return item
+
 
 class ItemList(Resource): 
 	def get(self): 
