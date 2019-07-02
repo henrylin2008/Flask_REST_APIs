@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="cbb37aae-b5e5-4252-bcd7-3a96834cfa18" name="Default Changelist" comment="" />
+=======
     <list default="true" id="23294e1f-5f03-442e-8e86-32656f147281" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+=======
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
@@ -21,12 +53,29 @@
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.py" />
+=======
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -37,14 +86,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app.py" />
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="1442" />
+    <option name="y" value="263" />
+    <option name="width" value="1494" />
+    <option name="height" value="1018" />
+=======
     <option name="x" value="1574" />
     <option name="y" value="182" />
     <option name="width" value="1560" />
     <option name="height" value="1060" />
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -52,18 +109,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
+              <item name="flask_sql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask_sql" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="first_rest" type="b2602c69:ProjectViewProjectNode" />
               <item name="first_rest" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
       <pane id="Scope" />
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -72,7 +141,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+<<<<<<< HEAD
+=======
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,6 +158,8 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
   <component name="RunManager">
     <configuration name="first_rest" type="Python.FlaskServer">
       <module name="first_rest" />
@@ -103,21 +177,48 @@
       <method v="2" />
     </configuration>
   </component>
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="cbb37aae-b5e5-4252-bcd7-3a96834cfa18" name="Default Changelist" comment="" />
+      <created>1562014187989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562014187989</updated>
+      <workItem from="1562014191392" duration="1210000" />
+=======
       <changelist id="23294e1f-5f03-442e-8e86-32656f147281" name="Default Changelist" comment="" />
       <created>1561914924293</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561914924293</updated>
       <workItem from="1561914927579" duration="5883000" />
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="1210000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1442" y="263" width="1494" height="1018" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+=======
     <option name="totallyTimeSpent" value="5883000" />
   </component>
   <component name="ToolWindowManager">
@@ -133,6 +234,7 @@
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" weight="0.32910052" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3295583" />
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -141,11 +243,17 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="SciView" />
+<<<<<<< HEAD
+      <window_info anchor="right" id="Database" weight="0.3298898" />
+=======
       <window_info anchor="right" id="Database" />
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+<<<<<<< HEAD
+=======
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2237548" />
@@ -169,11 +277,21 @@
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout-to-restore>
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/039c6439-69ea-4219-8012-4120ee2a8f50/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+=======
     <entry file="file://$PROJECT_DIR$/user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -195,6 +313,7 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+>>>>>>> 0649f56988138bd262ffb3e3b6fb147634c9ec68
         </state>
       </provider>
     </entry>
